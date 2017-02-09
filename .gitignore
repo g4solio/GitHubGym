@@ -27,3 +27,5 @@
 *.dropbox
 *.synctex.gz
 *~
+/NewFolder/ArrayCalisthenics/nbproject/private/
+/NewFolder/ArrayCalisthenics/build/
