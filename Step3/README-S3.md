@@ -1,4 +1,4 @@
-#Bilanciare oredine e Caos
+#Bilanciare ordine e Caos
 ------------------------------------------
 
 Ora lavoreremo a questo programma contemporaneamente
@@ -23,7 +23,11 @@ Ora lavoreremo a questo programma contemporaneamente
 * Fine. 
 
 ##Procedura standard di revisione
-Verrà spiegata in classe
+* Controllare il codice
+* Se tutto va bene: 
+> Merge con il branch main
+> Spostare la storia nella colonna Done
+* Se non va bene: FARLO ANDARE!!!
 
 ##Procedura di errore
 Se scoprite un errore, create una nuova ISSUE, con l'etichetta BUG e assegnatela a un gruppo che non sta facendo nulla. 
